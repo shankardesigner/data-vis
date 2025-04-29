@@ -1,0 +1,212 @@
+[
+  {
+      "id": 1,
+      "name": "Hospital A",
+      "role": "Healthcare Entity",
+      "specialty": "General",
+      "patient_count": 500
+  },
+  {
+      "id": 2,
+      "name": "Dr. Smith",
+      "role": "Healthcare Professional",
+      "specialty": "Cardiology",
+      "patient_count": 100
+  },
+  {
+      "id": 3,
+      "name": "Patient 1",
+      "role": "Patient",
+      "specialty": null,
+      "patient_count": null
+  },
+  {
+      "id": 4,
+      "name": "Dr. Johnson",
+      "role": "Healthcare Professional",
+      "specialty": "Orthopedics",
+      "patient_count": 80
+  },
+  {
+      "id": 5,
+      "name": "Hospital B",
+      "role": "Healthcare Entity",
+      "specialty": "Pediatrics",
+      "patient_count": 300
+  },
+  {
+      "id": 6,
+      "name": "Patient 2",
+      "role": "Patient",
+      "specialty": null,
+      "patient_count": null
+  },
+  {
+      "id": 7,
+      "name": "Dr. Davis",
+      "role": "Healthcare Professional",
+      "specialty": "Dermatology",
+      "patient_count": 120
+  },
+  {
+      "id": 8,
+      "name": "Hospital C",
+      "role": "Healthcare Entity",
+      "specialty": "Neurology",
+      "patient_count": 250
+  },
+  {
+      "id": 9,
+      "name": "Patient 3",
+      "role": "Patient",
+      "specialty": null,
+      "patient_count": null
+  },
+  {
+      "id": 10,
+      "name": "Dr. Miller",
+      "role": "Healthcare Professional",
+      "specialty": "Psychiatry",
+      "patient_count": 70
+  },
+  {
+      "id": 11,
+      "name": "Hospital D",
+      "role": "Healthcare Entity",
+      "specialty": "Oncology",
+      "patient_count": 180
+  },
+  {
+      "id": 12,
+      "name": "Dr. Wilson",
+      "role": "Healthcare Professional",
+      "specialty": "Rheumatology",
+      "patient_count": 50
+  },
+  {
+      "id": 13,
+      "name": "Patient 4",
+      "role": "Patient",
+      "specialty": null,
+      "patient_count": null
+  },
+  {
+      "id": 14,
+      "name": "Dr. Lee",
+      "role": "Healthcare Professional",
+      "specialty": "Endocrinology",
+      "patient_count": 90
+  },
+  {
+      "id": 15,
+      "name": "Hospital E",
+      "role": "Healthcare Entity",
+      "specialty": "Urology",
+      "patient_count": 200
+  },
+  {
+      "id": 16,
+      "name": "Patient 5",
+      "role": "Patient",
+      "specialty": null,
+      "patient_count": null
+  },
+  {
+      "id": 17,
+      "name": "Dr. Green",
+      "role": "Healthcare Professional",
+      "specialty": "Gastroenterology",
+      "patient_count": 110
+  },
+  {
+      "id": 18,
+      "name": "Hospital F",
+      "role": "Healthcare Entity",
+      "specialty": "Nephrology",
+      "patient_count": 150
+  },
+  {
+      "id": 19,
+      "name": "Patient 6",
+      "role": "Patient",
+      "specialty": null,
+      "patient_count": null
+  },
+  {
+      "id": 20,
+      "name": "Dr. Turner",
+      "role": "Healthcare Professional",
+      "specialty": "Ophthalmology",
+      "patient_count": 60
+  },
+  {
+      "id": 21,
+      "name": "Hospital G",
+      "role": "Healthcare Entity",
+      "specialty": "Pulmonology",
+      "patient_count": 280
+  },
+  {
+      "id": 22,
+      "name": "Patient 7",
+      "role": "Patient",
+      "specialty": null,
+      "patient_count": null
+  },
+  {
+      "id": 23,
+      "name": "Dr. Hill",
+      "role": "Healthcare Professional",
+      "specialty": "Allergy and Immunology",
+      "patient_count": 130
+  },
+  {
+      "id": 24,
+      "name": "Hospital H",
+      "role": "Healthcare Entity",
+      "specialty": "Geriatrics",
+      "patient_count": 120
+  },
+  {
+      "id": 25,
+      "name": "Patient 8",
+      "role": "Patient",
+      "specialty": null,
+      "patient_count": null
+  },
+  {
+      "id": 26,
+      "name": "Dr. Scott",
+      "role": "Healthcare Professional",
+      "specialty": "Emergency Medicine",
+      "patient_count": 40
+  },
+  {
+      "id": 27,
+      "name": "Hospital I",
+      "role": "Healthcare Entity",
+      "specialty": "Obstetrics and Gynecology",
+      "patient_count": 220
+  },
+  {
+      "id": 28,
+      "name": "Patient 9",
+      "role": "Patient",
+      "specialty": null,
+      "patient_count": null
+  },
+  {
+      "id": 29,
+      "name": "Dr. Carter",
+      "role": "Healthcare Professional",
+      "specialty": "Hematology",
+      "patient_count": 85
+  },
+  {
+      "id": 30,
+      "name": "Hospital J",
+      "role": "Healthcare Entity",
+      "specialty": "Infectious Disease",
+      "patient_count": 190
+  }
+]
